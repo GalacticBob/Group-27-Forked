@@ -1,0 +1,26 @@
+
+#parent {
+    width: 500px;
+    height: 500px;
+    background-color: green;
+    border: 3px solid red;
+
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.child {
+    width: 100px;
+    height: 150px;
+    background-color: blue;
+    border: 3px solid red;
+}
+
+#div1 {
+    flex-grow: 12;
+}
+
+#div2 {
+    flex-grow: 3;
+}

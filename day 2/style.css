@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    background-color: red;
+
+    /* Dimensions */
+    width: 200px;
+    height: 400px;
+
+    /* Position */
+    /* position: absolute;
+    top: 300px;
+    right: 500px; */
+    transition: width 1s;
+}
+
+#container:hover {
+    /* transform: translate(150px,150px) scale(2); */
+    /* transform: rotate(-15deg);
+    transform-origin: bottom right; */
+    width: 800px;
+    background-color: green;
+}
+
+#container:active {
+    transform: translate(-50px, -50px) scale(0.5);
+}

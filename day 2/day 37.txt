@@ -1,0 +1,7 @@
+# Day 37
+```1) Sololearn გაიარეთ Transforms სექციის ჩათვლით (Introduction to CSS)```
+```2) შექმენით div ბლოკი რომელსაც hover-ისას transform-ის კუთვნილებით შეუცვლით პოზიციას. გამოიყენეთ ნასწავლი სუბ-კუთვნილებები: translate,scale,rotate,trasnform-origin```
+```3) div ბლოკზე active მდგომარეობისას მოახდინეთ ერთი transform რომელზეც გამოიყენებთ: translate(x,y),scale(ratio),rotate(degrees),transform-origin-ის უარყოფით მნიშვნელობებს```
+```4) შექმენით საიტი რომელზეც თქვენი კრეატიულობით გექნებათ transform-ის გადასვლები, ნასწავლი სუბ-კუთვნილებების გამოყენებით```
+```5) გაეცანით რესურსს:```
+https://www.w3schools.com/cssref/css3_pr_transform.php
